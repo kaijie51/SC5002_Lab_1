@@ -1,4 +1,4 @@
-# SC5002 Lab Assignment
+# SC5002 Lab 1 Assignment
 
 This repo contains my Colab notebook for Part 2 of the SC5002 lab assignment.
 
