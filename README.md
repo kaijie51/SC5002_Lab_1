@@ -1,6 +1,6 @@
 # SC5002 Lab 1 Assignment
 
-This repo contains my Colab notebook for Part 2 of the SC5002 lab assignment.
+This repo contains my Colab notebook for Part 2 of the SC5002 Lab 1 Assignment.
 
 The notebook uses the California Housing dataset to predict the median house value of different areas in California based on features such as median income, house age, number of rooms, population and location. Linear Regression and Ridge Regression (alpha = 0.1, 10 and 1000) are compared using 5-fold cross-validation.
 
