@@ -8,8 +8,8 @@ The notebook uses the California Housing dataset to predict the median house val
 
 0. Platform Setup  
 1. Task 2.1: Dataset Setup
-2. Task 2.2 Model Training & Cross Validation 
-3. Task 2.3 Visualization
+2. Task 2.2: Model Training & Cross Validation 
+3. Task 2.3: Visualization
 
 Run top-to-bottom with **Runtime → Run all**.
 
